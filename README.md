@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# ECCE 2025 paper
 
-_Get started using GitHub in less than an hour._
 
 </header>
 
