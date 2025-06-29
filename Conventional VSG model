@@ -1,0 +1,1 @@
+This is conventional VSG with fixed parameters. Those are designed with settling time, Ts=1s, without overshoot, based on transfer function SISO method.
