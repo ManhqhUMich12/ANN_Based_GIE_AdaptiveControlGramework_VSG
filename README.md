@@ -11,7 +11,7 @@
 
 
 </header>
-Sharing the Matlab/Simulink related files used in the paper 10.1109/TPEL.2014.2378731. Cite this paper:
+Sharing the Matlab/Simulink related files used in the paper 10.1109/ECCE58356.2025.11259993. Cite this paper: https://ieeexplore.ieee.org/abstract/document/11259993
 
 
 <!--
